@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenneth Urbina Carbajal</h1>
-<h3 align="center">Full Stack Developer - USA </h3>
+<h3 align="center">Full Stack Developer</h3>
 <p>
     📫 How to reach me ***kenneth.urbina.x@gmail.com***
 </p>
