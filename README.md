@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenneth Urbina Carbajal</h1>
-<h3 align="center">Full Stack Developer - USA 
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="" height="30" width="30" />
-</h3>
+<h3 align="center">Full Stack Developer - USA </h3>
 <p>
     📫 How to reach me ***kenneth.urbina.x@gmail.com***
 </p>
