@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://icon-library.com/images/php-icon-png/php-icon-png-27.jpg" alt="bootstrap" width="60" height="60"/>
+        <img src="[https://icon-library.com/images/php-icon-png/php-icon-png-27.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png)" alt="bootstrap" width="60" height="60"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/Laravel-logo.jpg" alt="bootstrap" width="60" height="60"/>
