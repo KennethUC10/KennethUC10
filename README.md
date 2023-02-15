@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kenneth Urbina Carbajal</h1>
 <h3 align="center">Full Stack Developer</h3>
-<p>
-    📫 How to reach me ***kenneth.urbina.x@gmail.com***
-</p>
+<p>🌐 Hello everyone, my name is Kenneth Urbina Carbajal ✋</p>
+<p>🌐 I'm a Full Stack Developer with a great love for technology, specially computers</p>
+<p></p>🌐 I started in the world of programming from a very young age because I have always loved technology</p>
+<p>📫 How to reach me ***kenneth.urbina.x@gmail.com***</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/kenneth-urbina-81abb8103/" target="blank">
