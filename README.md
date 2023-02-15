@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kenneth Urbina Carbajal</h1>
 <h3 align="center">Full Stack Developer</h3>
-<p>🌐 Hello everyone, my name is Kenneth Urbina Carbajal ✋</p>
+<hr>
+
+<h2>Who am I ?</h2>
 <p>🌐 I'm a Full Stack Developer with a great love for technology, specially computers</p>
-<p></p>🌐 I started in the world of programming from a very young age because I have always loved technology</p>
+<p>🌐 I started in the world of programming from a very young age because I have always loved technology</p>
 <p>📫 How to reach me ***kenneth.urbina.x@gmail.com***</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,7 +12,17 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kenneth-urbina-81abb8103/" height="30" width="30" />
     </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+
+<h2>What do I do ?</h2>
+<p>Right now, I'm looking for a job related with Computer Science</p>
+<p>I love to program because I like to work with data and show this information in a website</p>
+<hr>
+
+<h2>What technolgies do I use ?</h2>
+<p>I have learned a lot of things in the Henry's bootcamp and I have increased my knowledge using new technologies since I gratuated from college</p>
+<p>I can use these technologies in programming :</p>
+<br>
 <p align="left">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="bootstrap" width="70" height="60"/>
@@ -51,6 +63,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
     </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
+    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
     </a>
@@ -58,6 +73,8 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
     </a>
 </p>
+<hr>
+
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethuc10&show_icons=true&title_color=0cdfc6&text_color=265956&hide_border=true&locale=en&layout=compact" alt="kennethuc10" />
 </p>
