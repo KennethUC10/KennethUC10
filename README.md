@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/kenneth-urbina-81abb8103/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kenneth-urbina-81abb8103/" height="30" width="30" />
     </a>
+    <a href="https://www.facebook.com/UC1602/" target="blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="https://www.facebook.com/UC1602" height="30" width="30" />
+    </a>
 </p>
 <hr>
 
